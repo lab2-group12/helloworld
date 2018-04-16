@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3f9a8e9-d137-46ca-88db-3c5e0b124279" name="Default" comment="VitaminLLL">
+    <list default="true" id="a3f9a8e9-d137-46ca-88db-3c5e0b124279" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="Selab23.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -161,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523914068593</updated>
-      <workItem from="1523915433926" duration="1253000" />
+      <workItem from="1523915433926" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="VitaminLLL">
       <created>1523915797552</created>
@@ -170,11 +169,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523915797552</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="VitaminLLLxxx">
+      <created>1523916703832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523916703832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1253000" />
+    <option name="totallyTimeSpent" value="1338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -225,7 +231,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="VitaminLLL" />
-    <option name="LAST_COMMIT_MESSAGE" value="VitaminLLL" />
+    <MESSAGE value="VitaminLLLxxx" />
+    <option name="LAST_COMMIT_MESSAGE" value="VitaminLLLxxx" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
